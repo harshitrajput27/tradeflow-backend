@@ -1,0 +1,9 @@
+{
+  "name": "tf-shared",
+  "version": "1.0.0",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "redis": "^4.6.13",
+    "kafkajs": "^2.2.4"
+  }
+}
